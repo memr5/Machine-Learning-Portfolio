@@ -33,4 +33,8 @@ The data is collected using zomato API. More information about zomato API docume
 * photo_count
 * opentable_support
 * delivery
-* takeaway
+* takeaway  
+
+## Kaggle 
+* [Kaggle Dataset](https://www.kaggle.com/rabhar/zomato-restaurants-in-india)
+* [Kaggle Kernel](https://www.kaggle.com/meemr5/zomato-ahmedabad-gandhinagar-restaurants-eda)
