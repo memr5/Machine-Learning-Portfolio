@@ -12,7 +12,3 @@ This portfolio is to showcase my development as a learner in ML field !!
 ## Web-Scraping
 
 * [PDPU-Mess Menu Scraping](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Web-Scraping/Custo-Friend)
-
-## Computer Vision
-
-* [Initial Learning](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Computer%20Vision/Initial%20Learning)
