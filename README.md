@@ -19,3 +19,7 @@ This portfolio is to showcase my work as a learner in ML field !!
 
 * Vadapav & Burger Classifier using Tensorflow - accuracy (89.73%)  
 [Colab](https://drive.google.com/open?id=1hOD0dy2H9xNEi9cBHqiMT40nnT3zVUFz)
+
+
+* Plant-Disease Classifier using Tensorflow - Average-accuracy for different models for diffenrent plants/crops - (97%)  
+[Drive](https://drive.google.com/drive/folders/1ayNWiYI7_cXbgCoAj7npxq9hCABaT9Rk?usp=sharing)
