@@ -23,3 +23,6 @@ This portfolio is to showcase my work as a learner in ML field !!
 
 * Plant-Disease Classifier using Tensorflow - Average-accuracy for different models for different plants/crops - (97%)  
 [Drive](https://drive.google.com/drive/folders/1ayNWiYI7_cXbgCoAj7npxq9hCABaT9Rk?usp=sharing)
+
+
+* Classification of MUSK and NON-MUSK chemical compounds 
