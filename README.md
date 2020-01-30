@@ -7,7 +7,10 @@ This portfolio is to showcase my work as a learner in ML field !!
 ### Exploratory data analysis
 
 * [Crime against Women in India](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Machine%20Learning/EDA/Crime%20Against%20Women%20in%20India)
-* [Zomato Ahmedabad & Gandhinagar Restaurants - EDA](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Machine%20Learning/EDA/Zomato%20Ahmedabad%20%26%20Gandhinagar%20Restaurants)
+* [Zomato Ahmedabad & Gandhinagar Restaurants - EDA](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Machine%20Learning/EDA/Zomato%20Ahmedabad%20%26%20Gandhinagar%20Restaurants)  
+
+### Time Series Analysis  
+* [Delhi Monthly Average Temperature Forecasting using SARIMAX](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Machine%20Learning/Time%20Series/Delhi%20Temperature%20Forecasting)  
 
 ## Deep Learning
 
