@@ -27,3 +27,7 @@ This portfolio is to showcase my work as a learner in ML field !!
 
 * Classification of MUSK and NON-MUSK chemical compounds  
 [Kernel & Other Material](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Deep%20Learning/MUSK%20%26%20NON-MUSK%20Compounds%20Classification)
+
+## Courses Completed  
+* [Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/verify/J5B7ZEL8RP4U)
+* [DataCamp Profile](https://www.datacamp.com/profile/memr5)  
