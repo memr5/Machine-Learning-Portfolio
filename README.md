@@ -19,7 +19,7 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 [kaggle](https://www.kaggle.com/meemr5/facial-expression-recognition)  
 [Colab](https://drive.google.com/open?id=1jimbkBJDgVEB1UYZ_XxB8UkLN8kygh9u)  
 
-* Vadapav & Burger Classifier using Tensorflow - accuracy (89.73%)  
+* Vadapav & Burger Classifier using Tensorflow - accuracy (96.43%)  
 [Colab](https://drive.google.com/open?id=1hOD0dy2H9xNEi9cBHqiMT40nnT3zVUFz)
 
 * Plant-Disease Classifier using Tensorflow - Average-accuracy for different models for different plants/crops - (97%)  
