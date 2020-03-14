@@ -10,6 +10,7 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 * [Zomato Ahmedabad & Gandhinagar Restaurants - EDA](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Machine%20Learning/EDA/Zomato%20Ahmedabad%20%26%20Gandhinagar%20Restaurants)  
 
 ### Time Series Analysis  
+
 * [Delhi Monthly Average Temperature Forecasting using SARIMAX](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Machine%20Learning/Time%20Series/Delhi%20Temperature%20Forecasting)  
   * [Kaggle Kernel](https://www.kaggle.com/meemr5/delhi-temperature-forecasting-using-sarimax?scriptVersionId=27964535)
 
@@ -29,5 +30,6 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 [Kernel & Other Material](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Deep%20Learning/MUSK%20%26%20NON-MUSK%20Compounds%20Classification)
 
 ## Courses Completed  
+
 * [Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/verify/J5B7ZEL8RP4U)
 * [DataCamp Profile](https://www.datacamp.com/profile/memr5)  
