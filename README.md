@@ -29,6 +29,16 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 * Classification of MUSK and NON-MUSK chemical compounds  
 [Kernel & Other Material](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Deep%20Learning/MUSK%20%26%20NON-MUSK%20Compounds%20Classification)
 
+## Work in Matlab 
+
+* [Activation Functions & Logic Gates implementation](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Matlab/Activation%20Functions%20%26%20Logic%20Gates)
+
+* [Iris & Pima India using Feed Forward ANN](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Matlab/Iris%20%26%20Pima%20India%20using%20ANN)
+
+* [Linear Regression from Scratch](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Matlab/Linear%20Regression%20from%20Scratch)
+
+* [Back Propogation from Scratch for Feed Forward ANNs](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Matlab/Back%20Porpogation%20from%20Scratch%20for%20Feed%20Forward%20ANN)
+
 ## Courses Completed  
 
 * [Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/verify/J5B7ZEL8RP4U)
