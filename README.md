@@ -16,6 +16,8 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 
 ## Deep Learning
 
+### Computer Vision
+
 * Facial Expression Recognition using fastai - accuracy(64.65%)  
 [kaggle](https://www.kaggle.com/meemr5/facial-expression-recognition)  
 [Colab](https://drive.google.com/open?id=1jimbkBJDgVEB1UYZ_XxB8UkLN8kygh9u)  
@@ -26,11 +28,18 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 * Plant-Disease Classifier using Tensorflow - Average-accuracy for different models for different plants/crops - (97%)  
 [Drive](https://drive.google.com/drive/folders/1ayNWiYI7_cXbgCoAj7npxq9hCABaT9Rk?usp=sharing)
 
-* Classification of MUSK and NON-MUSK chemical compounds  
-[Kernel & Other Material](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Deep%20Learning/MUSK%20%26%20NON-MUSK%20Compounds%20Classification)
-
 * Identifying the category of foliar diseases in **Apple trees**  
 [Plant Pathology 2020 🍎🍃: EDA + IA + IP + Models](https://www.kaggle.com/meemr5/plant-pathology-2020-eda-ia-ip-models)
+
+### NLP
+
+* Generating **Indian Baby Names** using RNNs  
+[Indian Baby Names Generator: Text-Processing + RNNs 👶]()
+
+### Others
+
+* Classification of MUSK and NON-MUSK chemical compounds  
+[Kernel & Other Material](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Deep%20Learning/MUSK%20%26%20NON-MUSK%20Compounds%20Classification)
 
 
 ## Work in Scilab
