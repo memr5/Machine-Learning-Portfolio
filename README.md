@@ -11,8 +11,8 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 
 ### Time Series Analysis  
 
-* [Delhi Monthly Average Temperature Forecasting using SARIMAX](https://github.com/memr5/Machine-Learning-Portfolio/tree/master/Machine%20Learning/Time%20Series/Delhi%20Temperature%20Forecasting)  
-  * [Kaggle Kernel](https://www.kaggle.com/meemr5/delhi-temperature-forecasting-using-sarimax?scriptVersionId=27964535)
+* Delhi Monthly Average Temperature Forecasting using SARIMAX   
+[Delhi Temperature Forecasting 🔥🌊: EDA + SARIMAX](https://www.kaggle.com/meemr5/delhi-temperature-forecasting-eda-sarimax?scriptVersionId=32533183)
 
 ## Deep Learning
 
