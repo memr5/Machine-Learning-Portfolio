@@ -34,7 +34,7 @@ This portfolio is to showcase my work as a learner in Machine-Learning!!
 ### NLP
 
 * Generating **Indian Baby Names** using RNNs  
-[Indian Baby Names Generator: Text-Processing + RNNs 👶]()
+[Indian Baby Names Generator: Text-Processing + RNNs 👶](https://www.kaggle.com/meemr5/indian-baby-names-generator-text-processing-rnn?scriptVersionId=32527493)
 
 ### Others
 
