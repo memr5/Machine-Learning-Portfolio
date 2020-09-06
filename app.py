@@ -95,25 +95,25 @@ model = getModel()
 
 if generate:
     text = None
-    st.text(seed_phrase)
+    # st.text(seed_phrase)
     if seed_phrase == '':
         seed_phrase = ' '
 
-    st.text(seed_phrase)
+    # st.text(seed_phrase)
     for char in seed_phrase:
-        st.text("Seed Phrase Check")
-        st.text(char)
+        # st.text("Seed Phrase Check")
+        # st.text(char)
         if char not in tokens:
             text = "Characters not supported"
             break
     
-    if text is not None:
+    if text is None:
         st.text("Generating New Names...")
         text = []
         while len(text)!=10:
             name = generateName(model,seed_phrase=seed_phrase).strip()
             if name not in names:
-                st.text(name)
+                # st.text(name)
                 text.append(name)
         text = "\n".join(text)
     
