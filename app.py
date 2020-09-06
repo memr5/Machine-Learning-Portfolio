@@ -66,12 +66,16 @@ st.markdown("""
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
             """,unsafe_allow_html=True)
 
-st.markdown("""![banner](https://media.giphy.com/media/TayI4SCiq0dJ6/giphy.gif)""")
+st.markdown("""
+<p align="center">
+  <img width="400" height="400" src="https://media.giphy.com/media/TayI4SCiq0dJ6/giphy.gif">
+</p>
+""",unsafe_allow_html=True)
 
-st.title("👶🏻 Indian Names Generator")
-st.header("✍🏻 Generate New Indian Names")
-st.markdown("""[Kaggle Notebook](https://www.kaggle.com/meemr5/indian-baby-names-generator-text-processing-rnn/)  
-[Github](https://github.com/memr5/)""")
+st.title("👶🏻 Indian Baby Names Generator")
+# st.header("✍🏻 Generate New Indian Baby Names")
+
+st.markdown("""[Kaggle Notebook](https://www.kaggle.com/meemr5/indian-baby-names-generator-text-processing-rnn/) | [Github](https://github.com/memr5/)""")
 
 st.write("This is a text-generating web-app")
 
@@ -85,9 +89,24 @@ st.markdown("""
 
 seed_phrase = st.text_input('Enter starting phrase',max_chars=9)
 
-
-# for char in seed_phrase:
-#     if char not in tokens:
+generate = st.button('Generate')
 
 model = getModel()
+
+if generate:
+    text = None
+    for char in seed_phrase:
+        if char not in tokens:
+            text = "Characters not supported"
+            break
+    
+    if text is not None:
+        text = []
+        while len(text)!=10:
+            name = generateName(model,seed_phrase=seed_phrase).strip()
+            if name not in names:
+                text.append(name)
+        text = "\n".join(text)
+    
+    st.text(text)
 
