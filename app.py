@@ -112,7 +112,7 @@ if generate:
         text = []
         while len(text)!=10:
             name = generateName(model,seed_phrase=seed_phrase).strip()
-            if name not in names:
+            if name not in names and name not in text:
                 # st.text(name)
                 text.append(name)
         text = "\n".join(text)
