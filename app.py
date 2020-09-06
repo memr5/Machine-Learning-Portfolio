@@ -87,7 +87,7 @@ st.markdown("""
               </div>
             """,unsafe_allow_html=True)
 
-seed_phrase = st.text_input('Enter starting phrase',max_chars=9)
+seed_phrase = str(st.text_input('Enter starting phrase',max_chars=9))
 
 generate = st.button('Generate')
 
@@ -95,6 +95,9 @@ model = getModel()
 
 if generate:
     text = None
+    if seed_phrase is None:
+        seed_phrase = ' '
+
     for char in seed_phrase:
         if char not in tokens:
             text = "Characters not supported"
@@ -106,7 +109,6 @@ if generate:
             name = generateName(model,seed_phrase=seed_phrase).strip()
             if name not in names:
                 text.append(name)
-        text = "\n".join(text)
+        text = "\n".join(text)    
     
     st.text(text)
-
